@@ -1,11 +1,25 @@
+---
+layout: compress
+# WARNING: Don't use '//' to comment out code, use '{% comment %}' and '{% endcomment %}' instead.
+---
+
+{%- comment -%}
+  See: <https://docs.mathjax.org/en/latest/options/input/tex.html#tex-options>
+{%- endcomment -%}
+
 MathJax = {
-  tex: {inlineMath: [
+  tex: {
+    {%- comment -%} start/end delimiter pairs for in-line math {%- endcomment -%}
+    inlineMath: [
       ['$', '$'],
       ['\\(', '\\)']
-    ],displayMath: [
+    ],
+    {%- comment -%} start/end delimiter pairs for display math {%- endcomment -%}
+    displayMath: [
       ['$$', '$$'],
       ['\\[', '\\]']
-    ],tags: 'ams'
+    ],
+    {%- comment -%} equation numbering {%- endcomment -%}
+    tags: 'ams'
   }
 };
-
