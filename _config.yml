@@ -16,7 +16,7 @@ timezone:
 
 title: CyberSoup # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Your tasty cyber snack # the tagline below the title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
