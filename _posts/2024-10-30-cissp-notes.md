@@ -1,5 +1,5 @@
 ---
-title: CISSP exam notes
+title: CISSP thoughts & notes
 description: 
 author: michal
 date: 2024-10-10 12:00:00 +0800
@@ -8,110 +8,134 @@ tags: [CISSP]
 pin: true
 math: true
 mermaid: true
+published: true
 image:
   path: /assets/img/2024/cissp-notes/cissp-exam.jpg
 ---
 
 ## Intro
-CISSP is Certified Information Systems Security Professional.
-It is a certification for information security professionals.
 
-My motivation was to gain a formal and industry recognized cyber security certification.
-And CISSP was always on my list.
-I started studying before staring PhD, then I wanted to do it during PhD, but it was too much.
-Finally, after graduation, it was the right time.
+The Certified Information Systems Security Professional (CISSP) certification is a well-known credential for info 
+security professionals. For me, getting this certification was a long-term goal. 
+I wanted to formalize my skills and gain some recognition in the cybersecurity world.
 
-The total study time was around 3 months, studing a 2-3 hours during a week and 4-5 over the weekend.
+I originally planned to study for the CISSP before starting my PhD, hoping to finish it while 
+I was studying. But balancing both was tough. After I graduated, I finally found the right time 
+to focus on the certification.
 
-I passed CISSP exam on 2024-09-09 after 100 questions.
+I studied for about three months, putting in 2-3 hours during the week and 4-5 hours on weekends. 
+On September 9, 2024, I passed the CISSP exam after just 100 questions!
 
 ## Is it worth it?
 
-Always before doing certification, I ask myself is it worth spending my time and money on it.
-Does it really bring value or is it just a piece of paper to put on the wall.
-I asked my friends and colleagues and went through many articles and forums.
-The status and recognition of CISSP is very high, however, it is not a certification that will prove your skills.
-The assumttion is that you already are the experienced cyber security proffesional. This is a mandatory requirement
-to obtain certification and ISC2 verifies that after passing the exam. With this in mind, below I list my arguments
-to do CISSP certification.
+Before committing to any certification, I always ask if it’s really worth the time and money. 
+Will it truly help my career, or is it just another title to add to the wall? To make a good choice, 
+I talked to friends and colleagues and read through a lot of articles and forums. Opinions were mixed, 
+but most agreed it can boost career prospects, even if it doesn’t necessarily make you a better cybersecurity 
+professional. I agree with that, but I also keep in mind that the CISSP exam 
+isn’t meant to test hands-on skills. It assumes candidates are already experienced cybersecurity professionals, 
+and (ISC)² verifies this after passing the exam. 
+With that in mind, here are my reasons for pursuing the CISSP certification.
 
 #### Non-technical aspects of cyber security
-The CISSP exam is an interesting one because it builds the bridge between technical and non-technical aspects of cyber security.
-With my background of software developer and researcher diging deep in how security mechanisms work, 
-I was definatelly missing the layers that are not technical but crucial in ensuring secuirty for organizations. 
-Data owners, policies, procedures, risk management, business continuity, legal aspects, were all new to me.
-Even though wroking in cyber security environments, I intuitivelly understand the importance of these aspects, 
-it was always someone else's job to take care of them. After studying for CISSP, I can see all those elements of the puzzle
-and how they fit together.
+
+The CISSP exam is particularly interesting because it bridges the gap between 
+the technical and non-technical aspects of cybersecurity. Coming from a background as 
+a software developer and researcher, where I’ve delved deeply into the technical workings 
+of security mechanisms, I realized I had been missing key layers that are essential to 
+securing organizations but are not purely technical.
+
+Topics such as data ownership, policies, procedures, risk management, business continuity, 
+and legal considerations were relatively new to me. Although I had an intuitive understanding 
+of their importance while working in cybersecurity environments, they were always handled by others. 
+Studying for the CISSP helped me see how these elements fit into the broader security picture, 
+giving me a more comprehensive understanding of how they all interconnect.
 
 
 #### Systematization of knowledge
-While studying to the CISSP exam you will find that its domians cover wide range of topics.
-Even if you only consider the official study guide, which has over 1000 pages, it is huge bulk of knowledge to digest.
-However, the exam is not about memorizing protocols and systems, but understanding the concepts, how they are applied in real world,
-and how they coexist and interact with each other. Interestingly enough, by preparing to the exam, I was able to 
-understand the history of some technologies, why certain decisions were made, and how they evolved over time.
-While it might not be useful in day-to-day work, it is definatelly great lessons learned.
-CISSP gives a holistic view on cyber security and for me this was the most valuable aspect of the certification.
-Being Linux guy, I enjoyed learning about other proprietary cyber security solutions.
-Overall, I strongly think that the study materials for the exam give the comprehensive overview of cyber security.
 
+When studying for the CISSP exam, you’ll notice it covers a wide range of topics. 
+The official study guide alone is over 1,000 pages, so there’s a lot to take in. 
+But the exam isn’t about memorizing every protocol or system—it’s more about understanding key concepts, 
+how they’re applied in the real world, and how different aspects of security work together.
+
+What I found really interesting during my preparation was learning the backstory behind some 
+technologies—why certain choices were made and how things evolved over time. While that kind of 
+historical insight might not be something you use day-to-day, it’s definitely valuable knowledge.
+
+CISSP gives you a big-picture view of cybersecurity, and that was the most useful part for me. 
+As someone with a Linux background, I also appreciated getting to learn about other proprietary 
+security solutions. Overall, the study material offers a really solid overview of cybersecurity, 
+which makes the whole certification process worth it.
 
 #### Language
-Working in the industry you will find that every team has its own language. 
-Managers talk about deliverables and risks, engineers about features and deadlines, security guys about vulnerabilities and threats.
-While studing to the CISSP, you actually learn how others perceive and talk about security.
-As the communication is the key in cyber security, the CISSP exam will give you the language to talk to stakeholders, 
-managers, engineers, and security guys. One left thing to do is to practice it in real world.
+
+In the industry, every team has its own way of communicating. Managers focus on deliverables and risks, engineers 
+talk about features and deadlines, while security teams discuss vulnerabilities and threats. 
+Studying for the CISSP helps you understand how each group views and talks about security.
+
+Since communication is crucial in cybersecurity, the CISSP equips you with the language needed to 
+effectively engage with stakeholders, managers, engineers, and security professionals alike. 
+The next step is putting this knowledge into practice in real-world situations.
 
 #### Formal Requirement
-While CISSP exam is more of a proof of non-technical knowledge, having it on your CV can help in recruitment proccess.
-Some jobs offers have CISSP exam in the nice-to-have section, so it might help you to go through the 
-HR first filter. However, in my opinion, certificate such as CISSP should be an addition to your portfolio, not the main focus.
-I believe it is more valuable to have a good GitHub profile, a blog, or a portfolio of your projects.
+The CISSP exam mainly shows you’ve got a solid grasp of non-technical security knowledge, but adding it to your CV 
+can still give you a boost during hiring. Some job listings mention CISSP as a “nice-to-have,” which can help you
+get through that first HR screen.
+
+Still, I think certifications like CISSP are best as a bonus rather than the main focus. 
+Having a strong GitHub, a blog, or a good portfolio of projects often goes further in showing what 
+you can actually do.
 
 ## Study materials
 
+There are a ton of books and question banks out there for CISSP prep, but just make sure you’re using more recent ones. 
+I like digital materials, but I also enjoy writing notes by hand. I mainly used the Sybex Study Guide 
+and the All-in-One Exam Guide, focusing on the parts I needed. Then I did practice questions to find 
+my weak spots and went back to review those areas. Here are the resources that helped me the most.
 
-Many materials. 
-I listed ones that helped me the most.
 
-**Oreilly library** \
-If you can learn from digital materials instead of paper books, it is definatley worth it.
-It costs roughly $50 for month (checked at October 2024) and gives you access to many books and videos.
-The resources include Sybex Official Study Guide and a few exam practice books.
-I believe that this is more cost effective and ecology friendly than buying books.
+**Oreilly library**\
+If you can learn from digital materials instead of paper books, Oreilly library is definitely worth considering. 
+It costs about $50 a month (as of October 2024) and gives you access to a ton of books and videos, 
+including the Sybex Official Study Guide and some exam practice books. I think this option is more 
+cost-effective and environmentally friendly than buying physical books.
 
 Link: [https://www.oreilly.com/search/?q=cissp&rows=100](https://www.oreilly.com/search/?q=cissp&rows=100)
 
 **Learnzapp** \
-Learnzapp is a good source of questions to practice after you read books and answered all the questions 
-in the books. It has mobile app and web version. It is possible to practice the questions in the exam mode.
-I find it useful to find how exhausting it is to anwer over 100 questions in one go.
+Learnzapp is a great resource for practicing questions once you’ve read the books and tackled the questions in them. 
+It offers both a mobile app and a web version, and you can even practice in exam mode. 
+I found it really helpful to see just how tiring it can be to answer over 100 questions in one sitting.
 
 Link: [https://isc2-learnzapp.web.app/home](https://isc2-learnzapp.web.app/home)
 
 **Study Notes and Theory** \
-Another good resource are study materials and questions from Luke Ahmed. His question set is intentionally very hard.
-So my suggestion is to use it after you run through all the other materials.
-However, do not do this questions just before the exam. As they are hard and tricky (more than the real exam)
-you may get discouraged or loose self confidence when you cannot score the passing mark.
+Another solid resource is the study materials and questions from Luke Ahmed. His question set is intentionally quite 
+challenging, so I recommend using it after you’ve gone through all the other materials. 
+Just avoid doing these questions right before the exam. Since they can be harder and trickier 
+than the actual test, you might end up feeling discouraged or lose confidence if you can’t hit 
+the passing score.
 
 Link: [https://www.studynotesandtheory.com/](https://www.studynotesandtheory.com/)
 
 **Destination Certification Videos** \
-Rob Witcher's CISSP MindMaps from Destination Certification are perfect for revision and finding areas that you need to study more.
-The videos go through all domains and summarize the most important topics.
+Rob Witcher's CISSP MindMaps are great for reviewing and pinpointing the areas where you need more study. 
+The videos cover all the domains and summarize the key topics effectively.
 
-Link: [https://www.youtube.com/watch?v=hf5NwUSEkwA&list=PLZKdGEfEyJhLd-pJhAD7dNbJyUgpqI4pu](https://www.youtube.com/watch?v=hf5NwUSEkwA&list=PLZKdGEfEyJhLd-pJhAD7dNbJyUgpqI4pu)
+Link:[https://www.youtube.com/watch?v=hf5NwUSEkwA&list=PLZKdGEfEyJhLd-pJhAD7dNbJyUgpqI4pu](https://www.youtube.com/watch?v=hf5NwUSEkwA&list=PLZKdGEfEyJhLd-pJhAD7dNbJyUgpqI4pu)
 
 **Technical Institute of America** \
-I found videos from Andrew Ramdayal just before the exam. 
-They gave me confidence that I know the topics well.
-After his 50 CISSP Practive Questions (Technical Institute of America), I decided to take the exam.
-https://www.youtube.com/watch?v=qbVY0Cg8Ntw
+I found Andrew Ramdayal's videos just before the exam, and they really helped me feel confident about the topics. 
+After tackling his 50 CISSP Practice Questions, I knew I was ready to take the exam.
+
+Link: [https://www.youtube.com/watch?v=qbVY0Cg8Ntw](https://www.youtube.com/watch?v=qbVY0Cg8Ntw)
 
 ## Summary
 
+Passing the CISSP exam was a fantastic journey. I learned a ton, and I’m really glad I went for it. 
+Even before the exam, I wasn’t sure if I was ready, but I know I tend to second-guess myself. 
+I totally recommend it for anyone who's been in cybersecurity for a few years and wants a good 
+overview of the field. The certification is just the cherry on top.
 
-Next goal: OSCP
+Next on my list - maybe OSCP!

@@ -2,7 +2,7 @@
 title: OPA for User Registration
 description: Open Policy Engine (OPA) for user registration.
 author: michal
-date: 2024-06-30 12:00:00 +0800
+date: 2026-06-30 12:00:00 +0800
 categories: [Authorization, IAM]
 tags: [OPA, Intermediate]
 pin: true
