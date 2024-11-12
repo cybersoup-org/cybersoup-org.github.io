@@ -9,6 +9,7 @@ pin: true
 math: true
 mermaid: true
 published: true
+hidden: false
 image:
   path: /assets/img/2024/cissp-notes/cissp-exam.jpg
 ---

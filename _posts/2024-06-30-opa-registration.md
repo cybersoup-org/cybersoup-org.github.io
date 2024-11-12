@@ -7,7 +7,7 @@ categories: [Authorization, IAM]
 tags: [OPA, Intermediate]
 pin: true
 math: true
-published: true
+hidden: false
 mermaid: true
 image:
   path: /assets/img/2024/opa-registration/blog.opa.png
